@@ -1,0 +1,32 @@
+.q1{
+    width: 150px;
+    height: 150px;
+    background-color:#fdc57b
+  }
+
+  .q2{
+    width: 150px;
+    height: 150px;
+    background-color:#fdc57b 
+  }
+  .q3{
+    width: 150px;
+    height: 150px;
+    background-color:#fdc57b   
+  }
+  .q4{
+    width: 150px;
+    height: 150px;
+    background-color:#fdc57b 
+  }
+  body{
+    background-color:#62374e;
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    place-items:center;
+    height: 100vh;
+    
+    
+    
+  }
